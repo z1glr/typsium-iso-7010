@@ -15,7 +15,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#ffffff"
+     pagecolor="#ecece7"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
@@ -41,7 +41,7 @@
      transform="translate(-53.975,-95.514583)">
     <path
        d="m 120.57945,130.56774 c 0,-17.42546 -14.1261,-31.551567 -31.551554,-31.551567 -17.425458,0 -31.551562,14.126107 -31.551562,31.551567 0,17.42545 14.126104,31.55156 31.551562,31.55156 17.425454,0 31.551554,-14.12611 31.551554,-31.55156"
-       fill="#ffffff"
+       fill="#ecece7"
        id="path3609"
        style="display:inline;stroke-width:0.264583"
        inkscape:label="1" />
