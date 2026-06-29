@@ -5,22 +5,10 @@
    fill-rule="evenodd"
    version="1.1"
    id="svg3"
-   sodipodi:docname="P048.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs3" />
-  <sodipodi:namedview
-     id="namedview3"
-     pagecolor="#ecece7"
-     bordercolor="#005387"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#9b2423" />
   <path
      d="M 251.75,132.5 C 251.75,66.64 198.36,13.25 132.5,13.25 66.64,13.25 13.25,66.64 13.25,132.5 c 0,65.86 53.39,119.25 119.25,119.25 65.86,0 119.25,-53.39 119.25,-119.25"
      fill="#ecece7"
