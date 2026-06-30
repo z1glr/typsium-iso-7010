@@ -1,6 +1,6 @@
 [package]
 name = "typsium-iso-7010"
-version = "0.1.0"
+version = "0.1.1"
 repository = "https://github.com/Typsium/typsium-iso-7010"
 license = "MIT"
 entrypoint = "src/lib.typ"
@@ -8,7 +8,7 @@ authors = [
     "Typsium Community <https://github.com/Typsium>",
     "Ants Aare Alamaa <@Ants-Aare>"
 ]
-description = "Display Warning signs, Fire signs, Emergency signs, Mandatory signs, Prohibited signs following the ISO 7010 standard in Typst"
+description = "Display Warning signs, Fire signs, Emergency signs, Mandatory signs, Prohibited signs following the ISO 7010 standard."
 categories = [ "components","report", "office" ]
 disciplines = [ "engineering", "chemistry", "transportation" ]
 keywords = ["iso", "7010", "warning", "hazard", "fire", "mandatory", "prohibited", "safety", "icon", "pictogram", "emergency", "exit"]
